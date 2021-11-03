@@ -1,2 +1,2 @@
-Salutare! Acesta este primul meu cont pe Github.
+Pythont pe Github.
 # cristian.github.io
