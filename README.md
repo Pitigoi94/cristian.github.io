@@ -1,2 +1,2 @@
-Pythont pe Github.
+Python pe Github.
 # cristian.github.io
